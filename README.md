@@ -17,7 +17,7 @@ echitabil, thread-urilor de nivel 1 (fiecare thread de nivel 1 primeste un numar
 intreg de linii, deci un numar fix de comenzi) [1] si pornesc thread-urile de
 nivel 1.
 
-**Observatie:** Initializez si pornesc exact N thread-uri de nivel 1, unde `N` este
+**Observatie:** Initializez si pornesc exact `N` thread-uri de nivel 1, unde `N` este
 numarul maxim de thread-uri preluat din linia de comanda.
 
 ### Clasa `Leader` (thread de nivel 1)
